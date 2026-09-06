@@ -1,0 +1,46 @@
+#include<bits/stdc++.h>
+using namespace std;
+int main(){
+    int n,k;
+
+    cout<<"Enter number of steps to move : ";
+    cin>>k;
+
+    cout<<"Enter Number of Elements : ";
+    cin>>n;
+
+    k=k%n;
+
+    int arr[n];
+
+    cout<<"Enter elements : ";
+
+    //Enter elements
+
+    for(int i=0;i<n;i++){
+        cin>>arr[i];
+    }
+
+    int temp[n];
+    
+    for(int i=0;i<n;i++){
+        if(i<k){
+            temp[i]=arr[n-k+i];
+        }
+        else{
+            temp[i]=arr[i-k];
+        }
+    }
+    
+    for(int i=0;i<n;i++){
+        arr[i]=temp[i];
+    }
+
+    cout<<"Rotated array is : ";
+
+    for(int i=0;i<n;i++){
+        cout<<arr[i]<<" ";
+    }
+
+    return 0;
+}
