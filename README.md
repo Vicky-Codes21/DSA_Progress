@@ -12,10 +12,10 @@ I am building consistency through daily problem solving on **LeetCode** and trac
 
 | Metric           | Progress                    |
 | ---------------- | --------------------------- |
-| 🔥 Daily Streak  | **31 Days**                 |
+| 🔥 Daily Streak  | **44 Days**                 |
 | 💻 Language      | **C++**                     |
 | 📚 DSA Sheet     | **Striver's A2Z DSA Sheet** |
-| 🎯 Current Focus | **Arrays — Hard**           |
+| 🎯 Current Focus | **BS on 1D Array**           |
 
 ---
 
@@ -27,8 +27,8 @@ I am building consistency through daily problem solving on **LeetCode** and trac
 | Sorting                      | ✅ Completed    |
 | Arrays — Easy                | ✅ Completed    |
 | Arrays — Medium              | ✅ Completed    |
-| Arrays — Hard                | 🔄 In Progress |
-| Binary Search                | ⏳ Upcoming     |
+| Arrays — Hard                | ✅ Completed |
+| Binary Search                | 🔄 In Progress     |
 | Strings                      | ⏳ Upcoming     |
 | Linked List                  | ⏳ Upcoming     |
 | Recursion                    | ⏳ Upcoming     |
@@ -56,6 +56,7 @@ DSA_Progress/
 ├── ArrayE/
 ├── ArrayM/
 ├── ArrayH/
+├── Binary_Search/
 │
 ├── .gitignore
 └── README.md
@@ -97,8 +98,8 @@ I am using this repository to:
 
 ## 🚀 Current Status
 
-**Striver's A2Z Sheet:** Arrays — Hard
+**Striver's A2Z Sheet:** Binary Search
 
-**LeetCode Daily Streak:** 🔥 31 Days
+**LeetCode Daily Streak:** 🔥 44 Days
 
-**Next Goal:** Complete Arrays — Hard and continue progressing through the A2Z Sheet.
+**Next Goal:** Complete Binary Search and continue progressing through the A2Z Sheet.
