@@ -4,6 +4,10 @@ using namespace std;
 class Solution {
 public:
     int lowerBound(vector<int>& nums, int x) {
+
+        //The upper bound algorithm finds the first or the smallest index in a sorted array where the value at that index is greater than the given key i.e. x.
+        //The upper bound is the smallest index, ind, where arr[ind] > x.
+      
         int n = nums.size();
         int st = 0;
         int end = n - 1;
