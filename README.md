@@ -12,7 +12,7 @@ I am building consistency through daily problem solving on **LeetCode** and trac
 
 | Metric           | Progress                    |
 | ---------------- | --------------------------- |
-| 🔥 Daily Streak  | **44 Days**                 |
+| 🔥 Daily Streak  | **56 Days**                 |
 | 💻 Language      | **C++**                     |
 | 📚 DSA Sheet     | **Striver's A2Z DSA Sheet** |
 | 🎯 Current Focus | **BS on 1D Array**           |
@@ -100,6 +100,6 @@ I am using this repository to:
 
 **Striver's A2Z Sheet:** Binary Search
 
-**LeetCode Daily Streak:** 🔥 44 Days
+**LeetCode Daily Streak:** 🔥 56 Days
 
 **Next Goal:** Complete Binary Search and continue progressing through the A2Z Sheet.
